@@ -1,0 +1,3 @@
+C:/Users/gandl/Downloads/git_bhargavi_gudur/c_cpp_cmake_basiccode/vectorProject/build/CMakeFiles/vectorProject.dir
+C:/Users/gandl/Downloads/git_bhargavi_gudur/c_cpp_cmake_basiccode/vectorProject/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/gandl/Downloads/git_bhargavi_gudur/c_cpp_cmake_basiccode/vectorProject/build/CMakeFiles/ZERO_CHECK.dir
