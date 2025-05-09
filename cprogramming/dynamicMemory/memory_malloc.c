@@ -7,7 +7,7 @@
  * @date 2025-05-05
  * 
  */
-// Online C compiler to run C program online
+
 #include <stdio.h>
 #include <stdlib.h>
 void dynamic_memory_malloc()
