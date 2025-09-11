@@ -31,7 +31,7 @@ int main()
 {
     int n;
     printf("Enter a number: ");
-    scanf("%d", &n);
+    scanf_s("%d", &n);
     // Check if the input number is negative
     if (n < 0)
     {
