@@ -1,6 +1,7 @@
 # Four Different Basic Projects
 
-This repository contains four different basic projects related to C and C++ programming. Below is a brief description of each project:
+This repository contains four different basic projects related to C and C++ programming.
+Below is a brief description of each project:
 
 ## CPP_CMAKE
 This project demonstrates the use of CMake to build and manage C++ projects. It includes examples of how to structure a C++ project, write a `CMakeLists.txt` file, and build the project using CMake.
