@@ -1,6 +1,7 @@
 # Four Different Basic Projects
 
 This repository contains four different basic projects related to C and C++ programming.
+
 Below is a brief description of each project:
 
 ## CPP_CMAKE
