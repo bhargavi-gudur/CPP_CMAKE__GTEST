@@ -16,6 +16,6 @@ This folder contains standalone C++ programs showcasing various concepts of C++ 
 
 This project integrates Google Test (GTest) with CMake to demonstrate unit testing in C++ projects. It includes sample test cases and instructions on how to run the tests.
 
-## cprogramming
+## c programming
 
 This folder contains basic C programs that cover fundamental concepts of the C programming language, such as loops, functions, pointers, and file handling.
