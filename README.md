@@ -10,7 +10,7 @@ This project demonstrates the use of CMake to build and manage C++ projects. It 
 
 ## CPP_Codes
 
-This folder contains standalone C++ programs showcasing various concepts of C++ programming, such as object-oriented programming, data structures, algorithms, and more.
+This folder contains standalone C++ programs showcasing various concepts of C++ programming, such as object-oriented programming, data structures, algorithms.
 
 ## CPP_Gtest_Cmake
 
