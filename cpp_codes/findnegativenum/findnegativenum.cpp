@@ -8,6 +8,10 @@
  */
 #include <iostream>
 using namespace std;
+/**
+ *@brief Class to find negative numbers in an array.
+ * 
+ */
 class negativeNUMber
 {
 public:
@@ -24,7 +28,8 @@ public:
         }
         cout << endl;
     }
-    void findPostiveNumbers(int arr[], int &size)
+    // METHOD TO FIND POSITIVE NUMBERS IN AN ARRAY
+    void findPostiveNumbers(int arr[], int& size)
     {
         cout << "postive numbers in the array: ";
         for (int i = 0; i < size; i++)
@@ -36,6 +41,7 @@ public:
         }
         cout << endl;
     }
+    // DESTRUCTOR
     ~negativeNUMber()
     {
         cout << "Destructor called" << endl;
